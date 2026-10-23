@@ -2,7 +2,7 @@
 
 Historical web mapping project for visualizing soil properties across the Terai region of Nepal.
 
-This repository contains a static, Leaflet-based web map. It displays interpolated maps of five soil properties (pH, organic matter, total nitrogen, clay content, and boron) and shows their values at any point the user clicks. It is preserved as a reference resource for students and researchers who wish to understand, reuse, or extend web mapping workflows for soil and agricultural data.
+This repository contains a static, Leaflet-based web map. It displays interpolated maps of five soil properties (pH, organic matter, total nitrogen, clay content, and boron) and shows their values at any point the user clicks. It is preserved as a reference resource.
 
 > **Repository status: Historical project (2018).** The site is preserved for future reference and is not actively maintained. Some external services it relies on have since changed or been retired (see [Notes for reuse](#notes-for-reuse)).
 
