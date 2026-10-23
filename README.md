@@ -16,7 +16,7 @@ The web map:
 - Provides a basemap switcher (street map and aerial imagery), a "locate me" control, and a legend for each layer.
 - Includes a metadata page describing how the soil data were collected and analyzed.
 
-**Live site:** https://kushalkc1094.github.io/NepalSoilMap.io/index.htm (once GitHub Pages is enabled for this repository)
+**Live site:** https://kushalkc1094.github.io/NepalSoilMap/index.htm (once GitHub Pages is enabled for this repository)
 
 ## Soil Data
 
